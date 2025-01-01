@@ -1,0 +1,20 @@
+{
+  "name": "telegram-signal-bot",
+  "version": "1.0.0",
+  "main": "telegramSignalBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon telegramSignalBot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "binance": "^2.15.1",
+    "binance-api-node": "^0.12.9",
+    "decimal.js": "^10.4.3",
+    "input": "^1.0.1",
+    "nodemon": "^3.1.9",
+    "telegram": "^2.26.6"
+  }
+}
